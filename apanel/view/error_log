@@ -1,0 +1,4 @@
+[16-Aug-2021 15:11:06 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cabgov/public_html/portal/apanel/view/frontend_header.php on line 21
+[16-Aug-2021 15:11:06 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cabgov/public_html/portal/apanel/view/frontend_header.php on line 47
+[16-Aug-2021 15:11:06 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cabgov/public_html/portal/apanel/view/frontend_header.php on line 79
+[16-Aug-2021 15:11:06 Asia/Manila] PHP Fatal error:  Class 'db' not found in /home/cabgov/public_html/portal/apanel/view/frontend_header.php on line 292
