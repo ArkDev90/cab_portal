@@ -722,7 +722,7 @@ class controller extends wc_controller {
 
 		if ($result) {
 
-			$this->portal->sendEmail($message, $client_user->email);
+			$this->portal->sendEmail($message, $client_user->email, "CAB Reportorial  Portal : Password Reset for $client_user->username");
 
 		}
 

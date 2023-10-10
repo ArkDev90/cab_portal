@@ -28,6 +28,6 @@ session_cache_expire(3600);
 define('WC_HOSTNAME', '10.0.0.10');
 define('WC_USERNAME', 'portal_user');
 define('WC_PASSWORD', '%N3wL@rky90!');
-define('WC_DATABASE', 'cabgov_portal_cid_new');
+define('WC_DATABASE', 'cabgov_portal_cid_new_bu');
 
 ?>
